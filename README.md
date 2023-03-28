@@ -1,15 +1,11 @@
-# 🏄‍♂️ Abubakar Haruna Abdulmalik
+# 🤖🏄‍♂️ Abubakar Haruna Abdulmalik
 
 **`Digital Craftsman (Developer/Product Design/Innovator)`**
 
-I'm a full-stack developer with over five years of experience in creating innovative web solutions. I have a versatile skillset that allows me to develop and design every aspect of a project, from back-end functionality to user interface design.
-
+😀I'm a full-stack developer with over five years of experience in creating innovative web solutions. I have a versatile skillset that allows me to develop and design every aspect of a project, from back-end functionality to user interface design.
 Over the years, I've worked on various projects, including e-commerce websites with multiple vendors, school management systems, and inventory systems with POS capabilities. I have experience with programming languages such as C#, Django, React.js, Java, and PHP, as well as proficiency in AJAX, graphic design, and UI/UX design. With my diverse skillset, I can tackle any project and ensure its success.
-
 I am passionate about creating high-quality, user-friendly solutions that meet clients' needs and exceed their expectations. Throughout my career, I have developed excellent project management, collaboration, and problem-solving skills, enabling me to deliver projects on time and within budget.
-
 Outside of work, I enjoy staying up-to-date with the latest advancements in technology and attending industry events to network with like-minded professionals. I am always looking for new challenges and opportunities to expand my knowledge and push the boundaries of technology.
-
 Thank you for taking the time to learn more about me. I'm excited to connect with you and discuss how I can help bring your web project to life.
 
    <p align="left">
