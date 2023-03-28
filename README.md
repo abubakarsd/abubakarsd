@@ -8,12 +8,22 @@ I am passionate about creating high-quality, user-friendly solutions that meet c
 Outside of work, I enjoy staying up-to-date with the latest advancements in technology and attending industry events to network with like-minded professionals. I am always looking for new challenges and opportunities to expand my knowledge and push the boundaries of technology.
 Thank you for taking the time to learn more about me. I'm excited to connect with you and discuss how I can help bring your web project to life.
 
-   <p align="left">
-      <a href="https://github.com/abubakarsd?tab=followers">
+## Connect with me  
+<div align="left">
+<a href="https://twitter.com/https://twitter.com/minister_sd" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abubakar-haruna-abdulmalik-2673a2201/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/abubakarsd" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/abubakarsd?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abubakarsd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/abubakarsd?tab=repositories&sort=stargazers">
+<a href="https://github.com/abubakarsd?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abubakarsd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</div>  
 
 ---
 
