@@ -47,7 +47,7 @@ Thank you for taking the time to learn more about me. I'm excited to connect wit
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-Hello there! My name is [Your Name]. I've always been fascinated by technology and how things work, and that curiosity led me to pursue a degree in computer science. During my first year in school, I started to develop a passion for coding, and I was eager to learn everything I could about the programming world.
+   I've always been fascinated by technology and how things work, and that curiosity led me to pursue a degree in computer science. During my first year in school, I started to develop a passion for coding, and I was eager to learn everything I could about the programming world.
 During that time, I developed Jarvis, a personal PC assistant, which sparked my interest in AI and machine learning. I wanted to learn more about these fields, and I started experimenting with an Android simulator to see what I could create.
 Since then, my passion for coding has only grown stronger, and I've honed my skills in a variety of programming languages, including C#, Django, React.js, Java, and PHP. I've also become proficient in AJAX, graphic design, and UI/UX design.
 Over the years, I've worked on numerous projects, including e-commerce websites with multiple vendors, school management systems, and inventory systems with POS capabilities. I take pride in creating high-quality, user-friendly solutions that meet clients' needs and exceed their expectations.
