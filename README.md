@@ -10,7 +10,7 @@ Thank you for taking the time to learn more about me. I'm excited to connect wit
 
 ## Connect with me  
 <div align="left">
-<a href="https://twitter.com/https://twitter.com/minister_sd_" target="_blank">
+<a href="https://twitter.com/https://twitter.com/minister_sd/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abubakar-haruna-abdulmalik-2673a2201/" target="_blank">
