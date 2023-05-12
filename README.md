@@ -43,9 +43,9 @@ Thank you for taking the time to learn more about me. I'm excited to connect wit
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarsd&show_icons=true&theme=gruvbox)
+<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarsd&show_icons=true&theme=gruvbox) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsd&theme=gruvbox&border_radius=4.5)
 
 #
 
