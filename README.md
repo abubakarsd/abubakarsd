@@ -1,62 +1,142 @@
 # 🤖🏄‍♂️ Abubakar Haruna Abdulmalik
 
-**`Digital Craftsman (Developer/Product Design/Innovator)`**
+**`Digital Craftsman (Developer / Product Designer / Innovator)`**
 
-😀I'm a full-stack developer with over five years of experience specializing in building scalable and user-centered web and mobile applications. My work focuses on modern technologies like Vue.js, Node.js, Express, React Native, Flutter, MongoDB, TailwindCSS, and Bootstrap.
+Hi there! 👋  
+I’m a **full-stack developer** with over **5 years of experience** building scalable, user-centered **web and mobile applications**.  
+I specialize in **Vue.js, React Native, Flutter, Node.js, Express, MongoDB, and TailwindCSS**, focusing on performance, maintainability, and clean design.
 
-Over the years, I’ve developed and deployed projects such as multi-vendor e-commerce platforms, school management systems, and advanced inventory applications with POS functionality. My skillset bridges both front-end and back-end development, allowing me to create seamless, high-performing digital experiences across web and mobile.
+I’ve worked on:
+- 🛒 **Multi-vendor e-commerce platforms**  
+- 🏫 **School management systems**  
+- 🧾 **Advanced inventory & POS solutions**  
+- 🤖 **AI-powered mobile systems (Herd AI, Agent System)**  
+- 💳 **Fintech applications (RentSpace Mobile App)**  
 
-Beyond development, I have a strong passion for clean data analysis ensuring every project I build not only looks great but performs efficiently.
-
-I take pride in delivering high-quality, maintainable code and collaborating effectively with teams to bring innovative ideas to life. Staying updated with evolving technologies and industry trends keeps me motivated to continually refine my craft and push the boundaries of what’s possible.
-
-Thank you for taking the time to learn more about me I’m excited to connect and help you turn your next web or mobile project into a success. 🚀
-
-## Connect with me  
-<div align="left">
-<a href="https://twitter.com/minister_sd/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/abubakar-haruna-abdulmalik-2673a2201/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/abubakarsd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/abubakarsd?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/abubakarsd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/abubakarsd?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abubakarsd?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</div>  
+I’m passionate about blending **development, AI, and design** to deliver efficient, intelligent, and user-focused products.  
+Let’s build something amazing together. 🚀
 
 ---
 
-### 🧰 Languages and Tools
+## 🌐 Connect with Me
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<br />
+<div align="center">
+  <a href="https://twitter.com/minister_sd/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abubakar-haruna-abdulmalik-2673a2201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/abubakarsd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/abubakarsd?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/abubakarsd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abubakarsd?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abubakarsd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/>
+  </a>
+</div>
 
-### 📊 Stats
+---
 
-![abubakarsd GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarsd&show_icons=true&theme=gruvbox)
+## 🧰 Languages & Tools
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsd&theme=gruvbox&border_radius=4.5) -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+</div>
 
-#
+---
+
+## 🧠 Core Expertise
+
+- ⚙️ **Full-Stack Development** – Scalable backend + fluid frontend  
+- 📱 **Mobile Development** – Flutter & React Native for cross-platform apps  
+- 🧩 **AI Model Training** – Building and integrating trained models into production apps  
+- 🌐 **API Design & Integration** – REST, GraphQL, WebSocket  
+- 🧭 **Cloud Services** – Firebase, AWS, Vercel  
+- 🎨 **UI/UX & Product Design** – Clean, human-centered experiences  
+- 🧮 **Data-Driven Systems** – Analytics, automation, and optimization  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarsd&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsd&theme=gruvbox&hide_border=true&border_radius=10)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarsd&layout=compact&theme=gruvbox&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 **Herd AI Mobile** | Intelligent mobile app that learns user behaviors and assists with automation | Flutter, TensorFlow Lite |
+| 🕴️ **Agent System Mobile** | Smart business agent app for automating workflows and tracking clients | Flutter, Firebase |
+| 💸 **RentSpace Fintech App** | Fintech mobile app for secure digital rent transactions | Flutter, Node.js, MongoDB |
+| 🏪 **E-Commerce Platform** | Multi-vendor marketplace with full payment and logistics integration | Vue.js, Node.js, MongoDB |
+| 🏫 **School Management System** | All-in-one education management and analytics platform | React, Express, PostgreSQL |
+| 🧾 **Inventory & POS** | POS system with analytics dashboard and offline sync | Vue.js, IndexedDB, Express |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakarsd&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   I've always been fascinated by technology and how things work, and that curiosity led me to pursue a degree in computer science. During my first year in school, I started to develop a passion for coding, and I was eager to learn everything I could about the programming world.
-During that time, I developed Jarvis, a personal PC assistant, which sparked my interest in AI and machine learning. I wanted to learn more about these fields, and I started experimenting with an Android simulator to see what I could create.
-Since then, my passion for coding has only grown stronger, and I've honed my skills in a variety of programming languages, including C#, Django, React.js, Java, and PHP. I've also become proficient in AJAX, graphic design, and UI/UX design.
-Over the years, I've worked on numerous projects, including e-commerce websites with multiple vendors, school management systems, and inventory systems with POS capabilities. I take pride in creating high-quality, user-friendly solutions that meet clients' needs and exceed their expectations.
-In my free time, I enjoy attending industry events to stay up-to-date with the latest advancements in technology and network with like-minded professionals. I am always looking for ways to expand my knowledge and skills and give back to the coding community.
+<summary><h3>👨‍💻 My Coding Journey</h3></summary>
+
+I’ve always been fascinated by technology and how things work, which led me to study **Computer Science**.  
+During my first year, I built **Jarvis**, a desktop assistant that sparked my passion for **AI and machine learning**.
+
+Since then, I’ve explored:
+- 💻 Web & Mobile Development (Vue, React, Flutter)
+- ⚙️ Backend Systems (Node.js, Express, Django)
+- 🎨 UI/UX & Product Design
+- 🧠 Machine Learning & AI Model Training  
+
+Over the years, I’ve built **e-commerce**, **school management**, and **inventory systems with POS** — always focusing on performance and usability.  
+
+When I’m not coding, I attend tech meetups, mentor developers, and keep exploring the next frontier of digital innovation.
+
+</details>
+
+---
+
+### 💬 Motto
+> “Build with purpose, design with empathy, and innovate without limits.”
+
+---
+⭐ **If you like my work, don’t forget to star my repositories and connect!**
