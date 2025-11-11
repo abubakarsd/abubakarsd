@@ -20,7 +20,7 @@ Let’s build something amazing together. 🚀
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="left" style="margin-bottom: 10px;">
   <a href="https://twitter.com/minister_sd/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -32,12 +32,12 @@ Let’s build something amazing together. 🚀
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/abubakarsd?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/abubakarsd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/abubakarsd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" />
   </a>
   <a href="https://github.com/abubakarsd?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abubakarsd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/abubakarsd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
   </a>
 </div>
 
@@ -81,10 +81,6 @@ Let’s build something amazing together. 🚀
 <div align="center">
 
 ![Abubakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakarsd&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10)
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abubakarsd&theme=gruvbox&hide_border=true&border_radius=10)
 
 <br/>
 
